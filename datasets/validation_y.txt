@@ -1,0 +1,208 @@
+
+some might worry that pursuing gge research under such a regulatory system will create pressure to relax laws in the future and will thus lead indirectly to objectionably harmful research if the rate of off target mutations significantly improves legislators may lift the 14 day limit and allow edited embryos to be brought to term if this happens it is important that any initial clinical trials using gge are conducted with a focus on harm minimisation
+
+early gene therapy trials were conducted with an emphasis on participant consent the most infamous case is that of jesse gelsinger in that case a somatic cell gene therapy was developed for ornithine transcarbamylase deficiency a disorder of nitrogen metabolism the condition comes in two forms mild with normal life expectancy and management by diet and severe which is lethal in the first year researchers acting on the advice of ethicists decided to conduct the first trials in adults with the mild form of the disease as they were capable of consenting gelsinger consented at age 18 and died due to a catastrophic immune reaction he would have had a normal life expectancy in the absence of the intervention 31
+
+the trial should have been conducted in infants with the severe form of the disease as this would have resulted in less expected harm 32 the same principle applies to any trial of gge the first trials ought to be conducted in diseases which are lethal soon after birth the reason for this is if the gge technique turns out to be lethal little is lost because that individual had no hope of long term survival in any case while it is not possible to obtain consent from infant participants though their parents must consent it is necessary to weigh the value of consent against minimising expected harm 33
+
+indeed other safety measures could be used to minimise safety risks for edited embryos resulting in live births testing of embryos and foetuses could be performed to evaluate the effectiveness of gge for example pgd could be performed with whole genome analysis at day 3 4 chorionic villus sampling cvs at 10 weeks and structural ultrasound at 20 weeks if evidence of off target mutations were found termination of pregnancy could be performed
+
+given the ready availability of safety measures there seems little reason to suppose that pursuing some forms of gge now will lead to so much unsafe use of the technology in the future that we should not pursue it now
+
+3 2 germline changes
+a common objection that has been levelled against the pursuit of gge is that altering the germline will have negative consequences for future generations 34 this objection can take two forms either gge will make unintended changes to the germline through off target mutations which will have negative effects on future generations or the changes we intend to make to the germline will have harmful unforeseen consequences
+
+it is clear that off target mutations associated with gge could be harmful to future generations the accumulation of random mutations may slowly lead to increasing rates of disease however it is plausible that as gge develops the rate of off target mutations will become negligible the rates of off targets mutations in animal models have been declining rapidly and such mutations are now considered undetectable in some applications 35 in addition there will be ways to estimate the risk from off target mutations as discussed above this will further reduce the risk to future generations
+
+still some may argue that even just a few germline changes could cause widespread harm to future generations it is possible that these will be missed in any safety checks that are performed however it seems unlikely that a small number of germline mutations pose a serious enough risk to future generations that we ought not to pursue gge mutations are constantly being introduced in the human germline and many human activities increase the rate at which they occur for example delaying paternity increases the number of mutations in sperm which are then passed on to children in the next generation not many believe these additional mutations represent a morally weighty risk to future generations if they did this would arguably justify screening the sperm of older fathers for mutations or providing incentives for young men to freeze sperm for use later in life 36 similarly some cancer treatments potentially cause germline mutations 37 however not many argue that these mutations cause a weighty enough risk to future generations that we ought to screen the gametes of cancer survivors for mutations before allowing or assisting them to reproduce
+
+therefore if gge will be deployed only at the point where the number of off target mutations is very small the risk of harm to future generations is unlikely to count decisively against pursuing it this risk is likely outweighed by the potential benefits of gge for future generations discussed in section 2
+
+a different concern about the effect of gge on future generations centres on the intended rather than the unintended changes we will make to the germline we may use gge to increase the frequency of genes that are beneficial in one generation yet these same genes may be harmful to future generations
+
+some genes provide protection against certain diseases but increase susceptibility to others for example it is known that a variant of the darc gene which codes for an antigen found on red blood cells provides protection against malaria however this version of the gene also disposes people to be more susceptible to human immunodeficiency virus hiv suppose that in a region where malaria is prevalent and hiv rare many parents use gge to give their children forms of the gene that protect against malaria subsequent generations could then be decimated by hiv other immune genes have known benefits but may also have costs that are yet to be discovered for example the ccr5 gene codes for a type of receptor found on macrophages a type of white blood cell which are targeted by the hiv virus one form of the ccr5 gene provides resistance to the hiv virus however given the important role played by macrophage receptors in fighting other infections it is possible that individuals with this form of the gene will be more susceptible to other infectious agents that are yet to evolve if we use gge to introduce the hiv resistant version of the ccr5 gene this may make future generations susceptible to a future plague 38
+
+there is no doubt that such concerns need to be carefully considered before gge is used in a clinical setting current decision makers need to consider the interests of future generations and should not reduce valuable forms of diversity 39 but these concerns do not show that gge will cause harms to future generations that outweigh its benefits rather they demonstrate the need to take care in deciding when and how to deploy the technology and to consider the likely future environment in which that individual will exist
+
+3 3 the consent and autonomy of future generations
+some arguments against gge dispute the authority of current individuals to make decisions on behalf of future generations in outlining their decisions to continue not to fund gge research the nih pointed to the ethical issues presented by altering the germline in a way that affects the next generation without their consent 40 this argument is pursued less directly in the nature commentary which refers to the difficulty in obtaining informed consent when calling for a moratorium on gge 41
+
+it is not made clear in either piece why the consent of future generations should be seen as vital for decisions involving gge but not for other major decisions with long term effects we cannot obtain the consent of future generations for the development of powerful communication technologies like smartphones which will dramatically alter their lives it would be absurd to claim that we shouldn t develop any risky novel technologies because it affects the next generation without their consent
+
+the central question with gge as with all interventions that create risks for individuals who cannot consent is not whether the individuals who would be exposed to the risks would consent to them but whether they will also expectably enjoy benefits that outweigh the risks
+
+suppose first that our pursuit of gge will affect what future people come into existence thus the individuals who will bear the risks of gge will also exist only because we pursued it these individuals will enjoy existential benefit from our pursuit of gge in rare cases individuals may also suffer harms from gge that outweigh these benefits in the sense that we have stronger reason to avoid the harms than to produce the benefits this would most plausibly be so if gge causes side effects so severe as to make an individual s life not worth living but provided gge is sensibly regulated so as to mitigate risks such cases will be extremely rare it thus seems reasonable to expect that collectively the existential benefits will outweigh the risks
+
+now suppose that the individuals who bear the risks of our pursuing gge would exist even if we did not pursue it in that case they will not enjoy an existential benefit however many will enjoy concrete person affecting health benefits in the form of reduced risk of disease it seems nearly universally accepted that we can benefit people by reducing rates of disease this is consistent with how we currently treat people who are unable to offer consent such as those who are unconscious we often take it for granted that improving the health of these individuals would benefit them moreover it is again plausible that if gge is sensibly regulated these benefits will outweigh the risks
+
+some believe the important issue is not the consent of future individuals but rather their autonomy habermas believes that the accidental nature of our genetic make up is vital for our ability to live as autonomous agents it is only by having genes given to us by chance rather than design that we can grow from nature and live autonomously 42 when we alter the genes of future individuals we thereby undermine their autonomy 43
+
+habermas s account relies on a distinction between social and natural influences on his account what is wrong about genetic modification is that social forces determine our characteristics by editing the genes of our children we allow social values to determine their heredity and deprive them of having a genome determined by nature however what habermas s account fails to recognise is that social forces have been affecting our genome for generations social ideals of beauty influence mate choice and thereby directly influence the genetic makeup of the next generation in addition many social and cultural developments have changed the human germline in distinctive ways for example the development of agriculture led to the widespread selection of genes that allow humans to digest starch and lactose our genome has already been influenced by our social life
+
+it might be argued that there is a morally significant difference between gge and other social influences on heredity gge is intended to influence the genomes of future generations whereas other social influences are not it might thus be argued that gge amounts to the domination manipulation or control of future generations by present ones and on some accounts of autonomy it thereby reduces their autonomy 44 however many actions taken by the parents of young children also intentionally influence the lives of those children they do not do so via altering their genes directly but it is difficult to see why this should be morally significant our genes are just one causal influence on our lives indeed some social and environmental influences affect gene expression through epigenetic effects and these changes may be passed on to the next generation 45 parenting actions are not normally regarded as significant threats to autonomy merely because they involve the domination manipulation or control of children by their parents they are normally regarded as such only when and because parental actions severely constrain the future life choices of their children or harm them directly in cases where parents act in ways that expand the future life choices of their children as eliminating a disposition to disease would generally do this autonomy enhancing effect is normally thought to outweigh any restriction on autonomy due to the presence of domination manipulation or control it is arguably the presence of disease and disorder not gene editing to remove them that presents the greatest threat to future autonomy 46
+
+thus even if we accept that gge in one way reduces the autonomy of future generations we believe this will often be outweighed by its other autonomy increasing effects suppose we use gge to edit out a gene that causes cystic fibrosis and thereby prevent an individual from suffering this disease this individual can now live without the fear of the consequences of cystic fibrosis and will not be impeded by the physical limitations imposed by the disease removing this gene promotes the individual s autonomy and it seems plausible to suppose that this effect outweighs any reduction in autonomy due to the domination manipulation or control of the individual by prior generations
+
+3 4 enhancement
+one common concern about gge is that it will be used a tool of human enhancement and not merely to prevent disease gge has much greater capacity to be used as a means of enhancement than conventional selection methods this is because it can target a large number of genes simultaneously and could be used to insert genes that would not occur naturally while genetic selection allows selection within the normal human range gene editing would allow the enhancement of human capacities to supranormal levels
+
+many believe that if gge were used a tool of human enhancement it could cause widespread social harm this seems to motivate marcy darnovsky of the center for genetics and society when she says that creating genetically modified human beings could easily lead to new forms of inequality discrimination and societal conflict 47 it is difficult to see how using ge to avoid genetic disease could lead to any of these things
+
+we have argued elsewhere that arguments against human enhancement face conceptual challenges 48 there are several different ways to understand the term enhancement which are often only imprecisely communicated by opponents of enhancement no commonly offered definitions describe something clearly morally problematic further difficulties arise when considering how biological enhancement can be differentiated from non biological enhancements which are nearly universally celebrated
+
+these issues have been analysed in great detail elsewhere 49 and we do not have space to explore them here
+
+however suppose for the sake of argument that biological enhancement is universally problematic it is doubtful that this would count decisively against permitting and funding the therapeutic use of gge or the continuation of gge research
+
+many medical technologies currently being used or developed for the treatment of disease could also be used as enhancements many of those who are against the use of these technologies for enhancement purposes are still in favour of pursuing their development and therapeutic uses lasik eye surgery pre implantation genetic diagnosis and plastic surgery can be used non therapeutically but this fact is not considered to provide reasons to prohibit or restrict funding for their therapeutic uses this is because regulatory tools can be used to limit enhancement uses to such a level that the moral costs of enhancing uses are outweighed by the benefits of therapeutic applications there is little reason to suppose that the situation would be different for gge
+
+some will argue that the stakes are much higher with gge than for these other technologies furthermore some are sceptical that regulations could prevent gge from being used as an enhancement we concede that if the use of gge to enhance traits poses a very significant moral risk and regulations could not limit gge to therapeutic uses then there may be a reason to not develop gge as a clinical tool 50 however we are aware of no empirical support for the claim that regulations could not also limit gge to therapeutic applications as has been the case for pgd or morally innocuous enhancement applications
+
+in sum while some of the arguments presented in this section point to concerns about some specific forms of gge and suggest ways we should guide and regulate its development none count decisively against the pursuit of gge as it is impossible to get consent from people who do not yet exist we cannot reasonably evaluate gge through the lens of consent from future generations the risk of germline changes and human enhancement is not unique to gge and merely shows that we need to research gge thoroughly and carefully regulate any clinical applications while initial research with gge may uncover further costs association with its pursuit at this point the costs are not clearly high enough to establish that gge should not even be provisionally pursued
+
+go to
+conclusion
+in this article we have shown that gge research can be conducted safely in ways that carry manageable and reasonable risks this of course would be moot if the development of gge carried no benefits but we have shown that there is a significant medical case for pursuing gge to combat single gene disorders and polygenic disorders and importantly a research case for pursuing this technology to better understand the genesis of disease the moral case in favour of pursuing gge is stronger than the case against this suggests that pursuing gge is both morally permissible and morally desirable 51
+
+this has direct implications for current policy debates given some research with gge is warranted we should resist calls for an international ban on all gge research such bans risk depriving us of valuable knowledge about human development and may deprive future generations of novel disease treatments
+
+go to
+acknowledgements
+julian savulescu would like to thank the wellcome trust grant number wt104848 z 14 z for its funding christopher gyngell would like to thank the marie curie actions of the european union s 2014 horizon 2020 work programme grant agreement n 659700 for its funding thomas douglas would like to thank the uehiro foundation on ethics and education for its funding
+
+go to
+notes
+1puping liang et al crispr cas9 mediated gene editing in human tripronuclear zygotes protein and cell 6 5 2015 363 372
+
+2in april 2016 a second study to alter embryonic dna was reported further gene editing research in human embryos has been approved by regulatory bodies in the uk ewen callaway second chinese team reports gene editing in human embryos nature news 2016 doi 10 1038 nature 2016 19718
+
+3helen shen first monkeys with customized mutations born nature news 2014 doi 10 1038 nature 2014 14611
+
+4luhan yang et al genome wide inactivation of porcine endogenous retroviruses pervs science 2015 doi 10 1126 science aad1191
+
+5qingjian zou et al generation of gene target dogs using crispr cas9 system journal of molecular cell biology 2015 doi 10 1093 jmcb mjv061
+
+6for the rest of this article when we use the acronym gge we are referring to human germline gene editing
+
+7 international summit on human gene editing a global discussion washington dc 1 3 december 2015 washington dc national academies press available from http www ncbi nlm nih gov books nbk343651 accessed 22 september 2016
+
+8sarah chan et al genome editing technologies and human germline genetic modification the hinxton group consensus statement the american journal of bioethics 15 12 2015 42 7
+
+9the march of dimes birth defects foundation march of dimes global report on birth defects new york white plains 2006 john harris germ line modification and the burden of human existence the cambridge quarterly of health care ethics 25 1 2016 6 18
+
+10bbc news us will not fund research for modifying embryo dna available at http www bbc co uk news health 32530334 accessed 7 october 2016
+
+11e lanphier et al don t edit the human germ line nature 519 7544 2015 410 411
+
+12human fertilisation embryology authority fertility treatment in 2011 p 17 available at http www hfea gov uk docs hfea_fertility_trends_and_figures_2011_ _annual_register_report pdf accessed 7 october 2016
+
+13we assume here that gge does not induce changes so significant as to alter the identity of the person to which the embryo will give rise
+
+14see jeff mcmahan causing people to exist and saving people s lives journal of ethics 17 2013 5 35 julian savulescu the nature of the moral obligation to select the best children in a akabayashi ed future of bioethics international dialogues oxford oxford university press 2014 pp 170 182
+
+15struan f a grant hakon hakonarson genome wide association studies in type 1 diabetes current diabetes reports 9 2 2009 157 163
+
+16j f peden m farrall thirty five common variants for coronary artery disease the fruits of much collaborative labour human molecular genetics 20 r2 2011 r198 r205
+
+17christine q chang et al a systematic review of cancer gwas and candidate gene meta analyses reveals limited overlap but similar effect sizes european journal of human genetics 22 3 2013 402 408
+
+18hannah bourne thomas douglas julian savulescu procreative beneficence and in vitro gametogenesis monash bioethics review 30 2 2012 29 48
+
+19xiangjin kang et al introducing precise genetic modifications into human 3pn embryos by crispr cas mediated genome editing journal of assisted reproduction and genetics 33 5 2016 581 8
+
+20angela l rasmussen et al host genetic diversity enables ebola hemorrhagic fever pathogenesis and resistance science 346 6212 2014 987 91
+
+21m tabebordbar et al in vivo gene editing in dystrophic mouse muscle and muscle stem cells science 351 6271 2016 407 11
+
+22for example see naoko irie et al sox17 is a critical specifier of human primordial germ cell fate cell 160 1 2 2015 253 68
+
+23d mathews s chan p donovan t douglas c gyngell j harris a regenberg r lovell badge crispr a path through the thicket nature 527 7577 2015 159 161
+
+24kazim h narsinh jordan plews joseph c wu comparison of human induced pluripotent and embryonic stem cells fraternal or identical twins molecular therapy 19 4 2011 635 8 josipa bilic juan carlos izpisua belmonte concise review induced pluripotent stem cells versus embryonic stem cells close enough or yet too far apart stem cells 30 1 2012 33 41
+
+25marina riera et al comparative study of human embryonic stem cells hesc and human induced pluripotent stem cells hipsc as a treatment for retinal dystrophies molecular therapy methods clinical development 3 2016 16010
+
+26francis collins statement on nih funding of research using gene editing technologies in human embryos 2015 available at http www nih gov about director 04292015_statement_gene_editing_technologies htm accessed 7 october 2016
+
+27lanphier et al op cit d baltimore et al a prudent path forward for genomic engineering and germline gene modification science 348 6230 2015 36 38
+
+28s shaw research governance regulating risk and reducing harm journal of the royal society of medicine 99 1 2006 14 19
+
+29julian savulescu the embryonic stem cell lottery and the cannibalization of human beings bioethics 16 6 2002 508 529 whether this counts in favour of gge will depend on how we understand the supposed moral prohibition on killing human embryos if we understand this as a deontological side constraint then it may not be possible to justify the killing of embryos now to avoid a greater number of embryo deaths in the future by contrast if the prohibition is an implication of a consequence based duty to prevent harm then the prevention of future embryo deaths could justify the causing of embryo deaths now
+
+30the human fertilisation and embryology authority human fertilisation and embryology act 2008 available at http www legislation gov uk ukpga 2008 22 pdfs ukpga_20080022_en pdf accessed 7 october 2016
+
+31j kaiser gene therapy questions remain on cause of death in arthritis trial science 317 5845 2007 1665a
+
+32julian savulescu harm ethics committees and the gene therapy death journal of medical ethics 27 2001 148 150
+
+33we discuss issues of consent further in section 3 3
+
+34lanphier et al op cit
+
+35benjamin p kleinstiver et al high fidelity crispr cas9 nucleases with no detectable genome wide off target effects nature 529 7587 2016 490 5
+
+36although this has been suggested that such acts would be justified see kevin r smith paternal age bioethics journal of medical ethics 41 9 2015 775 779
+
+37c d glen y e dubrova exposure to anticancer drugs can result in transgenerational genomic instability in mice proceedings of the national academy of sciences 109 8 2012 2984 8
+
+38chris gyngell thomas douglas stocking the genetic supermarket reproductive genetic technologies and collective action problems bioethics 29 4 2015 241 250
+
+39ibid
+
+40collins op cit
+
+41lanphier et al op cit
+
+42jürgen habermas the future of human nature cambridge polity 2003
+
+43for a critical discussion of habermas s account see jonathan pugh autonomy natality and freedom a liberal re examination of habermas in the enhancement debate bioethics 29 3 2014 145 152
+
+44robert sparrow better living through chemistry a reply to savulescu and persson on moral enhancement journal of applied philosophy 31 1 2014 23 32
+
+45m j meaney maternal care gene expression and the transmission of individual differences in stress reactivity across generations annual review of neuroscience 24 2011 1161 1192
+
+46we are assuming here that our pursuit of gge would not be identity affecting for those whose autonomy would allegedly be constrained if it would then the putative constraint on autonomy would need to be weighed against an existential benefit and again it is plausible that the benefit would be weightier in almost all cases
+
+47the center for genetics and society public interest group calls for strengthening global policies against human germline modification online available at http www geneticsandsociety org article php id 8528 accessed 7 october 2016
+
+48j savulescu a sandberg g kahane well being and enhancement in j savulescu r ter meulen g kahane eds enhancing human capacities oxford wiley blackwell 2011 pp 3 18 thomas douglas enhancement biomedical in h lafollette ed international encyclopedia of ethics oxford wiley blackwell 2013 b earp a sandberg g kahane j savulescu when is diminishment a form of enhancement rethinking the enhancement debate in biomedical ethics frontiers in systems neuroscience 8 12 2014 1 7 c gyngell m selgelid human enhancement conceptual clarity and moral significance in s clarke a giubilini j savulescu t coady s sanyal eds the ethics of human enhancement understanding the debate oxford oxford university press 2016 pp 111 126
+
+49see allen buchanan dan brock norman daniels daniel wikler from chance to choice cambridge cambridge university press 2000 leon kass beyond therapy new york dana press 2003 john harris enhancing evolution princeton nj princeton university press 2007 julian savulescu nick bostrom human enhancement oxford oxford university press 2009
+
+50note though even this wouldn t be a reason against the use of gge in research
+
+51it may also imply that pursuing gge is morally obligatory for instance because we are morally obliged to do what we have most moral reason to do however we do not argue for this claim here
+
+other formats
+pubreader pdf 104k
+actions
+cite
+collections
+share
+
+resources
+similar articles
+cited by other articles
+links to ncbi databases
+follow ncbi
+connect with nlm
+
+
+national library of medicine
+8600 rockville pike
+bethesda md 20894
+
+web policies
+foia
+hhs vulnerability disclosure
+
+help
+accessibility
+careers
+
+nlm
+nih
+hhs
+usa gov
+tell us what you think close
